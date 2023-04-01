@@ -8,6 +8,7 @@ I used R to construct supervised machine learning models with a dataset of popul
 + Model performance will be evaluated based on [RMSE (root mean squared error)](https://en.wikipedia.org/wiki/Root-mean-square_deviation). 
 
 ## Data Analysis Process: 
+We can view the [raw codes](Data_Analysis_Process.Rmd) and [codes with results]()
 1. Data Exploration
 2. Data Tidying
    - Encode Missing Data
